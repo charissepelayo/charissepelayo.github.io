@@ -87,7 +87,7 @@ header p {
 }
 
 div.veil h2 {
-  color: #AAD5D3;
+  color: #f3f9f9;
   font-size: 60px;
   line-height: 65px;
   font-weight: 700;
@@ -113,9 +113,9 @@ div.veil p {
 }
 
 .veil {
-  background-color: rgba(139, 68, 72, 0.7);
+  background-color: rgba(231, 161, 188, 0.7);
   padding-left: 35px;
-  height: 330px;
+  height: 350px;
   /*430px width in figma minus 35padding left = 395px*/
   width: 395px;
   margin-top: 60px;
