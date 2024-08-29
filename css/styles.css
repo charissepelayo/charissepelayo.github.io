@@ -30,7 +30,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: "Domine", serif;
+  font-family: "Open Sans", serif;
 }
 
 h1 {
@@ -87,7 +87,7 @@ header p {
 }
 
 div.veil h2 {
-  color: #f3f9f9;
+  color: #405858;
   font-size: 60px;
   line-height: 65px;
   font-weight: 700;
@@ -113,7 +113,7 @@ div.veil p {
 }
 
 .veil {
-  background-color: rgba(231, 161, 188, 0.7);
+  background-color: rgba(248, 190, 237, 0.7);
   padding-left: 35px;
   height: 350px;
   /*430px width in figma minus 35padding left = 395px*/
